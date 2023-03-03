@@ -26,7 +26,7 @@ dependencies:
   sign_in_with_apple: ^4.3.0
   crypto: ^3.0.2
   the_apple_sign_in: ^1.1.1
-  very_good_cli: ^0.11.0+1
+  very_good_cli: ^0.12.2
 
 
 dev_dependencies:
